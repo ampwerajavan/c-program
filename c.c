@@ -97,6 +97,6 @@ int main()
             break;
         }
     } while (1);
-    printf("\nThank you for collaborating with BCS_GRP_6, we appreciate! \n");
+    printf("\nThank you for collaborating with this program, we appreciate! \n");
     return 0;
 }
